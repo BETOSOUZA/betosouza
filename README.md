@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Roberto Santana 
+## Oiii! Eu sou o Roberto Santana.
 
  <div>
   <a href="https://github.com/betosouza">
